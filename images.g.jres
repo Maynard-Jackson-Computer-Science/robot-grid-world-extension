@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQPAA8AAAAAAAAAAAAAAAAAAAAAAKAAAAAAAACgqgAAAAAAoKqqAAAAAKCqqqoAAACgqqqqqgAAoKqqqqqqAKCqqqqqqqoAAKCqqqqqqgAAAKCqqqqqAAAAAKCqqqoAAAAAAKCqqgAAAAAAAKCqAAAAAAAAAKAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Robot Up"
+    },
+    "image2": {
+        "data": "hwQPAA8AAAAAAAAAAAAAAAAAAKAAAAAAAAAAqgoAAAAAAACqCgAAAAAAoKqqAAAAAACgqqoAAAAAAKqqqgoAAAAAqqqqCgAAAKCqqqqqAAAAoKqqqqoAAACqqqqqqgoAAKqqqqqqCgCgqqqqqqqqAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Robot Left"
+    },
+    "image3": {
+        "data": "hwQPAA8AAAAAAAAAAAAAAKAAAAAAAAAAoKoAAAAAAACgqqoAAAAAAKCqqqoAAAAAoKqqqqoAAACgqqqqqqoAAKCqqqqqqqoAoKqqqqqqAACgqqqqqgAAAKCqqqoAAAAAoKqqAAAAAACgqgAAAAAAAKAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Robot Down"
+    },
+    "image4": {
+        "data": "hwQPAA8AAAAAAAAAAAAAAKCqqqqqqqoAoKqqqqqqqgAAqqqqqqoKAACqqqqqqgoAAKCqqqqqAAAAoKqqqqoAAAAAqqqqCgAAAACqqqoKAAAAAKCqqgAAAAAAoKqqAAAAAAAAqgoAAAAAAACqCgAAAAAAAKAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Robot Right"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
